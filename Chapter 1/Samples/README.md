@@ -1,6 +1,4 @@
 # Chapter 1 Samples
-Chapter 1 Samples
-
 Included are a series of samples for fundamental programming concepts in the Python Language.
 
 They are intended to be viewed in the following order:
