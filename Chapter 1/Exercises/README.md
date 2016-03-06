@@ -1,6 +1,12 @@
-# Intro-to-Python
-An Introduction to Python
+# Chapter 1 Exercises
+Chapter 1 Exercises
 
-This Repository currently includes a Chapter 1 which includes samples as well as assignments related to the fundamental principles of programming using the Python programming language.
+Included are a series of exercises for fundamental programming concepts in the Python Language.
 
-Contributions are welcome, feel free to branch and submit Pull Requests as this Repository grows to offer a more complete and clear introduction to Python.
+They are intended to be completed in the following order:
+
+1. Dice Rolling Simulator
+2. Guess the Number
+3. Mad Libs Generator
+4. Text-Based Adventure Game
+5. Hangman

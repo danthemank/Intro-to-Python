@@ -1,6 +1,12 @@
-# Intro-to-Python
-An Introduction to Python
+# Chapter 1 Samples
+Chapter 1 Samples
 
-This Repository currently includes a Chapter 1 which includes samples as well as assignments related to the fundamental principles of programming using the Python programming language.
+Included are a series of samples for fundamental programming concepts in the Python Language.
 
-Contributions are welcome, feel free to branch and submit Pull Requests as this Repository grows to offer a more complete and clear introduction to Python.
+They are intended to be viewed in the following order:
+
+1. Variables
+2. Making Decisions
+3. Functions
+4. Loops
+5. Input Output

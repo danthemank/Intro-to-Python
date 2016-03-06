@@ -1,4 +1,4 @@
-# Intro-to-Python
+# Intro to Python
 An Introduction to Python
 
 This Repository currently includes a Chapter 1 which includes samples as well as assignments related to the fundamental principles of programming using the Python programming language.
