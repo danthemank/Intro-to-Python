@@ -1,4 +1,4 @@
-#print random numbers between 1 and 10 for a user input number of times
+#print random numbers between 1 and 10 for a user input number of times - github demo
 
 import random
 
